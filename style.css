@@ -1,0 +1,27 @@
+.col-3
+{
+    background-color:rgb(158, 240, 162);
+    width: 1000px;
+    height: 1000px;
+}
+
+
+
+.container
+{
+    background-color:rgba(125, 117, 202, 0.856);
+}
+
+h1
+{
+    background-color:rgb(126, 241, 142);
+    color:white;
+    text-align: center;
+}
+
+.btn-primary
+{
+    color:white;
+    background-color:rgb(42, 228, 218);
+}
+
